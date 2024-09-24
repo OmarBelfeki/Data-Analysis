@@ -1,6 +1,8 @@
 # Data-Analysis
 Data Analysis using python, excel, sql, r
 
+![Omar Belfeki - Intro to Programming](https://github.com/user-attachments/assets/325070f8-d1fc-47ac-97ed-c991b60c1432)
+---------------------------------------------------------------------------------------------------------
 ![Omar Belfeki - Python](https://github.com/user-attachments/assets/de006a00-cdaa-46d2-badf-ca83502f055a)
 ---------------------------------------------------------------------------------------------------------
 ![Omar Belfeki - Python Core](https://github.com/user-attachments/assets/cd28db36-c5b5-420c-9353-ddc3b2c61d1b)
