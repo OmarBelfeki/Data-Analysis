@@ -13,6 +13,8 @@ Data Analysis using python, excel, sql, r
 ---------------------------------------------------------------------------------------------------------
 ![Omar Belfeki - SQL](https://github.com/user-attachments/assets/f86bba4c-ad15-406e-bb4d-878ba7d322a4)
 ---------------------------------------------------------------------------------------------------------
+![Omar Belfeki - Advanced SQL](https://github.com/user-attachments/assets/195c13f8-e798-40b8-8f75-696b1ba03a70)
+---------------------------------------------------------------------------------------------------------
 ![Omar Belfeki - Data Visualization](https://github.com/user-attachments/assets/6c5ef925-9538-4438-b078-eb7be4c82f4a)
 ---------------------------------------------------------------------------------------------------------
 ![Omar Belfeki - Python for Data Sience](https://github.com/user-attachments/assets/05941073-97c4-4ccc-b0e0-af4eb76f14cc)
