@@ -18,3 +18,7 @@ Data Analysis using python, excel, sql, r
 ![Omar Belfeki - Data Visualization](https://github.com/user-attachments/assets/6c5ef925-9538-4438-b078-eb7be4c82f4a)
 ---------------------------------------------------------------------------------------------------------
 ![Omar Belfeki - Python for Data Sience](https://github.com/user-attachments/assets/05941073-97c4-4ccc-b0e0-af4eb76f14cc)
+---------------------------------------------------------------------------------------------------------
+![webscarapping_omarbelfeki](https://github.com/user-attachments/assets/d08f6f9f-a4f2-411c-8e05-87461227c802)
+
+
