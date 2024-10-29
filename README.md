@@ -20,5 +20,7 @@ Data Analysis using python, excel, sql, r
 ![Omar Belfeki - Python for Data Sience](https://github.com/user-attachments/assets/05941073-97c4-4ccc-b0e0-af4eb76f14cc)
 ---------------------------------------------------------------------------------------------------------
 ![webscarapping_omarbelfeki](https://github.com/user-attachments/assets/d08f6f9f-a4f2-411c-8e05-87461227c802)
+---------------------------------------------------------------------------------------------------------
+![omardataviz](https://github.com/user-attachments/assets/57074051-2d7f-445c-bec5-7516b1644559)
 
 
